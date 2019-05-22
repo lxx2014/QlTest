@@ -1,0 +1,16 @@
+PODS:
+  - QLTest (0.1.0)
+
+DEPENDENCIES:
+  - QLTest (from `../`)
+
+EXTERNAL SOURCES:
+  QLTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QLTest: 1a87d4b64659cd3658312d51440802fc28e4904c
+
+PODFILE CHECKSUM: 9ca452f0ad6679fc4ce8082ea21879d5cebbb942
+
+COCOAPODS: 1.6.2

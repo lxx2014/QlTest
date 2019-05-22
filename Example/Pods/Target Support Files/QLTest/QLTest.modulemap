@@ -1,0 +1,6 @@
+framework module QLTest {
+  umbrella header "QLTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

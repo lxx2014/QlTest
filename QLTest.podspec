@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'QLTest'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of QLTest.'
+  s.summary          = 'z这是一个测试'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,9 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = 'z这是一个对pod私有库的测试'
 
   s.homepage         = 'https://github.com/lxx2014/QLTest'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
